@@ -43,7 +43,7 @@ No external dependencies are required.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Roshni-Patil/Server-Performance-Stats.git
    
 2. Make the script executable:
    ```bash
