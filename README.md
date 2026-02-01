@@ -11,7 +11,6 @@ The goal of this project is to create a lightweight script that can be executed 
 
 The script gathers and displays key performance metrics such as CPU usage, memory consumption, disk utilization, and top resource-hungry processes.
 
-Project URL : https://github.com/Roshni-Patil/Server-Performance-Stats
 ---
 
 ## ⚙️ Features
@@ -53,3 +52,5 @@ No external dependencies are required.
 3. Run the script
    ```
    ./script.sh
+
+This project is part of roadmap.sh DevOps projects.
