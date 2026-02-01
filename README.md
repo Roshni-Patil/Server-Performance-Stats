@@ -53,4 +53,4 @@ No external dependencies are required.
    ```
    ./script.sh
 
-This project is part of roadmap.sh DevOps projects.
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
