@@ -1,4 +1,4 @@
-# Server Performance Analyzer (server-stats.sh)
+# Server Performance Stats
 
 A simple Bash script to analyze basic Linux server performance statistics in real time.  
 This project is designed to strengthen Linux, Bash scripting, and system monitoring fundamentals.
